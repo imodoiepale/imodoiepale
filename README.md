@@ -25,4 +25,3 @@
     <img src="https://skillicons.dev/icons?i=twitter,linkedin" />
   </a>
 </p>
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fepaleim.web.app">
