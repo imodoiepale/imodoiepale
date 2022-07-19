@@ -16,10 +16,10 @@
 
 
 
-<h2>find me on</h2>
+<h2 align="center">find me on</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://epaleim.web.app/#contact">
     <img src="https://skillicons.dev/icons?i=twitter,linkedin,stackoverflow,discord" />
   </a>
 </p>
