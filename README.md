@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Imodoi Epale</h1>
-<h3 align="center">A passionate fullstckdeveloper from Kenya</h3>
+<h2 align="center">A passionate Full-Stack Developer from Kenya</h2>
 
 
 <br>
