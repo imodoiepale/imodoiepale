@@ -52,7 +52,8 @@
 <p align="center">
 <a href="https://twitter.com/boi_jimi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boi_jimi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imodoi epale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imodoi epale" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/imodoiepale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imodoiepale" height="30" width="40" /></a>
+<a href="https://wa.link/dg3llo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="imodoiepale" height="50" width="60" /></a>
+<a href="tel:+254 743 854 888" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/phone-icon.png" alt="imodoiepale" height="30" width="40" /></a>
 </p>
 
 
