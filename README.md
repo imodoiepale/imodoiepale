@@ -15,7 +15,7 @@
  
 - 🔭 I’m currently working on **bulk-sms and ticketing systems**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Solidity and Advanced Systems**
 
 - 👯 I’m looking to collaborate on **on making a movie streaming ui**
 
