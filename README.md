@@ -39,7 +39,7 @@
 <h2>What I use</h2>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,git,github,firebase,heroku,mysql,selenium,svg,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,django,react,nextjs,git,github,vercel,firebase,heroku,mysql,selenium,svg,vscode&perline=6)](https://skillicons.dev)
 
 
 <h2 align="center"> My Activity<h2>
