@@ -19,11 +19,11 @@
 
 - 👯 I’m looking to collaborate on **on making a movie streaming ui**
 
-- 👨‍💻My website is available at [epaleim.web.app](epaleim.web.app)
+- 👨‍💻My website is available at [imodoiepale.vercel.app](epaleim.web.app)
 
 - 📫 How to reach me **ijepale@gmail.com**
 
-- 📄 Know about my experiences [epaleim.web.app](epaleim.web.app)
+- 📄 Know about my experiences [imodoiepale.vercel.app](epaleim.web.app)
 
 
 <br>
