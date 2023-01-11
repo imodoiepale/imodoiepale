@@ -13,11 +13,10 @@
  
 
  
-<!-- - 🔭 I’m currently working on **bulk-sms and ticketing systems** -->
+ 🔭 I’m currently working on **Mastering React** 
 
 <!-- - 🌱 I’m currently learning **Solidity and Advanced Systems** -->
-
-- 👯 I’m looking to collaborate on **on making a movie streaming ui**
+<!-- - 👯 I’m looking to collaborate on **on making a movie streaming ui** -->
 
 - 👨‍💻My website is available at [imodoiepale.vercel.app](epaleim.web.app)
 
