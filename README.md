@@ -13,7 +13,7 @@
  
 
  
- 🔭 I’m currently working on **Mastering React** 
+ 🔭 I’m currently working on **Automating the Accounting Field** 
 
 <!-- - 🌱 I’m currently learning **Solidity and Advanced Systems** -->
 <!-- - 👯 I’m looking to collaborate on **on making a movie streaming ui** -->
