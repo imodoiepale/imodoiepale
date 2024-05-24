@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,tauri,electron,supabase,postman,gcp,vite,tailwind,html,css,js,bootstrap,python,django,git,github,vercel,firebase,heroku,mysql,selenium&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,tauri,electron,supabase,postman,gcp,vite,tailwind,html,css,js,bootstrap,python,django,git,github,vercel,firebase,heroku,mysql,selenium&perline=18" />
   </a>
 </p>
 
