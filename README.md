@@ -35,10 +35,13 @@
 
 <br><br>
 
-<h2>What I use</h2>
+<h2 align="center">What I use</h2>
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,django,react,nextjs,git,github,vercel,firebase,heroku,mysql,selenium,svg,vscode&perline=6)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,tauri,electron,supabase,postman,gcp,vite,tailwind,html,css,js,bootstrap,python,django,git,github,vercel,firebase,heroku,mysql,selenium&perline=8" />
+  </a>
+</p>
 
 
 <h2 align="center"> My Activity<h2>
