@@ -179,7 +179,7 @@ The work is aimed at African realities — mobile-first users, fragmented infras
 complexity, and digital economies growing faster than the tools around them.
 The brief is useful technology for a brighter world.
 
-🎓 Software Development, KCA University (2021–2025) · 📍 Nairobi · ✅ Available for select projects
+🎓 Software Development, KCA University · 📍 Nairobi · ✅ Available for select projects
 
 ---
 
