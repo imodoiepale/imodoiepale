@@ -48,16 +48,18 @@
   <p align="center">Voice-first Kenyan fintech — M-Pesa, bills, wallet transfers, chama collections and escrow. Conversational AI with passkey/PIN step-up security.</p>
 </td>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/meridian.webp" width="100%" alt="🌍 Meridian"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/meridian.webp" width="100%" alt="🌍 Meridian"/></a>
   <h4 align="center">🌍 Meridian</h4>
   <p align="center">Global Investor OS unifying immigration, company formation, licensing, tax and hiring into one AI-orchestrated market-entry roadmap.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/kra-tools.webp" width="100%" alt="🧾 KRA Tools Platform"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/kra-tools.webp" width="100%" alt="🧾 KRA Tools Platform"/></a>
   <h4 align="center">🧾 KRA Tools Platform</h4>
   <p align="center">Enterprise tax-compliance automation for the Kenya Revenue Authority — 20x faster via parallel workers and multi-tenant architecture.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
   <a href="https://nunge-returns.vercel.app"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/nunge-returns.webp" width="100%" alt="⚡ Nunge Returns"/></a>
@@ -67,50 +69,58 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/swara.webp" width="100%" alt="🦏 Swara"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/swara.webp" width="100%" alt="🦏 Swara"/></a>
   <h4 align="center">🦏 Swara</h4>
   <p align="center">AI wildlife-conservation voice platform for Ol Pejeta Conservancy — natural-language booking with VAPI, 24/7 visitor engagement.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/smart-school-sentinel.webp" width="100%" alt="🎓 Smart School Sentinel"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/smart-school-sentinel.webp" width="100%" alt="🎓 Smart School Sentinel"/></a>
   <h4 align="center">🎓 Smart School Sentinel</h4>
   <p align="center">Campus safety &amp; attendance intelligence: facial recognition, live location, anomaly detection and guardian notifications.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/chama-collection-system.webp" width="100%" alt="👥 Chama Collections"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/chama-collection-system.webp" width="100%" alt="👥 Chama Collections"/></a>
   <h4 align="center">👥 Chama Collections</h4>
   <p align="center">Group savings and contribution management built for how Kenyan chamas actually run.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/e-fns-immigration.webp" width="100%" alt="🛂 EFNS Immigration"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/e-fns-immigration.webp" width="100%" alt="🛂 EFNS Immigration"/></a>
   <h4 align="center">🛂 EFNS Immigration</h4>
   <p align="center">Immigration document automation — <b>40x</b> faster processing in the core workflow.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/monetrax.webp" width="100%" alt="💰 Monetrax"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/monetrax.webp" width="100%" alt="💰 Monetrax"/></a>
   <h4 align="center">💰 Monetrax</h4>
   <p align="center">Personal finance tracking and money intelligence.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/smart-events.webp" width="100%" alt="🎟️ Smart Events"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/smart-events.webp" width="100%" alt="🎟️ Smart Events"/></a>
   <h4 align="center">🎟️ Smart Events</h4>
   <p align="center">Event access control with fraud detection and real-time MQTT ingestion.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/statussync.webp" width="100%" alt="📲 StatusSync"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/statussync.webp" width="100%" alt="📲 StatusSync"/></a>
   <h4 align="center">📲 StatusSync</h4>
   <p align="center">Automated status &amp; broadcast scheduling across messaging channels.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
-  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/intelligent-meetings.webp" width="100%" alt="🧠 Intelligent Meetings"/>
+  <a href="https://portfolio.nsait.co.ke"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/intelligent-meetings.webp" width="100%" alt="🧠 Intelligent Meetings"/></a>
   <h4 align="center">🧠 Intelligent Meetings</h4>
   <p align="center">Meeting capture, transcription and AI-generated action items.</p>
+  <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Case study ↗</b></a></p>
 </td>
 </tr>
 </table>
