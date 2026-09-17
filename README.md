@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/banner.jpg" alt="James Imodoi Epale — Building intelligent systems for a brighter world" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm James Imodoi Epale</h1>
 <h3 align="center">AI Solutions Architect · Product Builder · Software Engineer</h3>
 <p align="center"><b>Co-Founder / CTO at NSAIT</b> — Nairobi, Kenya 🇰🇪</p>
@@ -36,14 +40,80 @@
 
 ### 🚀 Flagship systems
 
-| Product | What it does |
-| --- | --- |
-| **[Ongea Pesa](https://github.com/imodoiepale/ongea-pesa)** | Voice-first Kenyan fintech for M-Pesa, bills, wallet transfers, chama collections and escrow. Conversational AI, passkey/PIN step-up security and intelligent document scanning turn complex payments into guided actions. |
-| **Meridian** | Global Investor OS unifying immigration, company formation, licensing, tax, hiring and local operations into one AI-orchestrated market-entry roadmap. |
-| **KRA Tools Platform** | Enterprise tax-compliance automation for the Kenya Revenue Authority — 20x faster processing via parallel workers, automated extraction and multi-tenant architecture. |
-| **[Nunge Returns](https://nunge-returns.vercel.app)** | File nil tax returns in 30 seconds. Playwright automation + KRA iTax integration + intelligent obligation detection. Trusted by **18,096+** Kenyans. |
-| **Swara** | AI wildlife-conservation voice platform for Ol Pejeta Conservancy — natural-language booking with VAPI and 24/7 visitor engagement. |
-| **Smart School Sentinel** | Campus safety &amp; attendance intelligence: facial recognition, live location signals, anomaly detection, guardian notifications and intervention workflows. |
+<table>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/imodoiepale/ongea-pesa"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/ongea-pesa.webp" width="100%" alt="🗣️ Ongea Pesa"/></a>
+  <h4 align="center">🗣️ Ongea Pesa</h4>
+  <p align="center">Voice-first Kenyan fintech — M-Pesa, bills, wallet transfers, chama collections and escrow. Conversational AI with passkey/PIN step-up security.</p>
+</td>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/meridian.webp" width="100%" alt="🌍 Meridian"/>
+  <h4 align="center">🌍 Meridian</h4>
+  <p align="center">Global Investor OS unifying immigration, company formation, licensing, tax and hiring into one AI-orchestrated market-entry roadmap.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/kra-tools.webp" width="100%" alt="🧾 KRA Tools Platform"/>
+  <h4 align="center">🧾 KRA Tools Platform</h4>
+  <p align="center">Enterprise tax-compliance automation for the Kenya Revenue Authority — 20x faster via parallel workers and multi-tenant architecture.</p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://nunge-returns.vercel.app"><img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/nunge-returns.webp" width="100%" alt="⚡ Nunge Returns"/></a>
+  <h4 align="center">⚡ Nunge Returns</h4>
+  <p align="center">File nil tax returns in 30 seconds. Playwright + KRA iTax integration. Trusted by <b>18,096+</b> Kenyans.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/swara.webp" width="100%" alt="🦏 Swara"/>
+  <h4 align="center">🦏 Swara</h4>
+  <p align="center">AI wildlife-conservation voice platform for Ol Pejeta Conservancy — natural-language booking with VAPI, 24/7 visitor engagement.</p>
+</td>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/smart-school-sentinel.webp" width="100%" alt="🎓 Smart School Sentinel"/>
+  <h4 align="center">🎓 Smart School Sentinel</h4>
+  <p align="center">Campus safety &amp; attendance intelligence: facial recognition, live location, anomaly detection and guardian notifications.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/chama-collection-system.webp" width="100%" alt="👥 Chama Collections"/>
+  <h4 align="center">👥 Chama Collections</h4>
+  <p align="center">Group savings and contribution management built for how Kenyan chamas actually run.</p>
+</td>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/e-fns-immigration.webp" width="100%" alt="🛂 EFNS Immigration"/>
+  <h4 align="center">🛂 EFNS Immigration</h4>
+  <p align="center">Immigration document automation — <b>40x</b> faster processing in the core workflow.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/monetrax.webp" width="100%" alt="💰 Monetrax"/>
+  <h4 align="center">💰 Monetrax</h4>
+  <p align="center">Personal finance tracking and money intelligence.</p>
+</td>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/smart-events.webp" width="100%" alt="🎟️ Smart Events"/>
+  <h4 align="center">🎟️ Smart Events</h4>
+  <p align="center">Event access control with fraud detection and real-time MQTT ingestion.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/statussync.webp" width="100%" alt="📲 StatusSync"/>
+  <h4 align="center">📲 StatusSync</h4>
+  <p align="center">Automated status &amp; broadcast scheduling across messaging channels.</p>
+</td>
+<td width="50%" valign="top">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/projects/intelligent-meetings.webp" width="100%" alt="🧠 Intelligent Meetings"/>
+  <h4 align="center">🧠 Intelligent Meetings</h4>
+  <p align="center">Meeting capture, transcription and AI-generated action items.</p>
+</td>
+</tr>
+</table>
 
 <p align="center"><a href="https://portfolio.nsait.co.ke"><b>Explore 17+ products and experiments → NSAIT Portfolio ↗</b></a></p>
 
@@ -117,5 +187,9 @@ The brief is useful technology for a brighter world.
 
 📫 **ijepale@gmail.com** · 📱 **+254 743 854 888** · 💬 [WhatsApp](https://wa.me/254743854888)
 🌍 [imodoiepale.vercel.app](https://imodoiepale.vercel.app/) · 🏢 [nsait.co.ke](https://nsait.co.ke) · 🐦 [@boi_jimi](https://x.com/boi_jimi) · 📸 [@epale_dev](https://instagram.com/epale_dev)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imodoiepale/imodoiepale/main/assets/signature-name.png" width="260" alt="James Imodoi Epale signature" />
+</p>
 
 <p align="center"><b><i>FOR A BRIGHTER WORLD</i></b></p>
